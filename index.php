@@ -494,7 +494,7 @@
                 <div class="col-md-12 text-center">
                   <div class="loading">Loading</div>
                   <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                  <div class="sent-message">Il tuo messaggio è stato inviato. Grazie!</div>
 
                   <button type="submit">Invia un messaggio</button>
                 </div>
