@@ -455,7 +455,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h3>Email </h3>
-                  <p>info@example.com</p>
+                  <p>info@2ggroup.net</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -523,7 +523,7 @@
           <div class="footer-contact pt-3">
             <p>Pisa, PI 56127</p>
             <p class="mt-3"><strong>Numero:</strong> <span>+39 3922680976</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
+            <p><strong>Email:</strong><span> info@2ggroup.net</span></p>
           </div>
         </div>
 
