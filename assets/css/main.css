@@ -1851,21 +1851,25 @@ section,
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-wrap {
+  display: flex;
+  column-gap: 40px;
   box-shadow: 0px 0px 20px color-mix(in srgb, var(--default-color), transparent 90%);
   border-top: 3px solid var(--accent-color);
   border-bottom: 3px solid var(--accent-color);
-  padding: 30px;
-  height: 100%;
+  padding: 40px;
 }
 
 @media (max-width: 575px) {
   .contact .info-wrap {
     padding: 20px;
+    flex-direction: column;
   }
 }
 
-.contact .info-item {
-  margin-bottom: 40px;
+@media (max-width: 575px) {
+  .contact .info-item {
+    padding-bottom: 20px;
+  }
 }
 
 .contact .info-item i {
